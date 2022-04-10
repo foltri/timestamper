@@ -3,7 +3,7 @@
 ![alt text](img/preview.png "timestamper preview")
 
 Timestapmer is a status bar timer which lets you paste timestamps using 
-the shift + enter shortcut.
+the ctrl + enter shortcut.
 
 ## install
 
