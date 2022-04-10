@@ -4,7 +4,7 @@ APP = ['timestamper.py']
 DATA_FILES = []
 OPTIONS = {
     'argv_emulation': True,
-    'iconfile':'icon.icns',
+    'iconfile':'img/icon.icns',
     'plist': {
         'LSUIElement': True,
         'LSPrefersPPC': True
