@@ -1,6 +1,6 @@
 # timestamper
 
-![alt text](https://github.com/foltri/timestamper/img/preview.png 
+![alt text](https://github.com/foltri/timestamper/blob/main/img/preview.png 
 "timestamper preview")
 
 timestapmer is a status bar timer which lets you paste timestamps using 
