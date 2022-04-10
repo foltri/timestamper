@@ -1,12 +1,14 @@
 # timestamper
 
-![alt text](https://github.com/foltri/timestamper/blob/main/img/preview.png 
-"timestamper preview")
+![alt text](img/preview.png "timestamper preview")
 
-timestapmer is a status bar timer which lets you paste timestamps using 
-the shift + enter shortcut
+Timestapmer is a status bar timer which lets you paste timestamps using 
+the shift + enter shortcut.
 
 ## install
 
 Download the latest version from 
 [https://github.com/foltri/timestamper/releases/latest](https://github.com/foltri/timestamper/releases/latest)
+
+In order to make it work, enable Timestamper in Settings, Security and Privacy, Accessibility:
+![alt text](img/accessibility.png "accessibility setting")
